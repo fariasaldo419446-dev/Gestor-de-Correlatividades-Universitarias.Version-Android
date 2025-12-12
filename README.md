@@ -18,3 +18,5 @@ Aplicación móvil desarrollada en Python y Kivy para gestionar el estado de las
 ## Cómo ejecutar
 1. Instalar dependencias: `pip install kivy`
 2. Ejecutar: `python main.py`
+
+![App version android](https://github.com/user-attachments/assets/870437b0-161b-45ef-8a39-a414b7046920)
