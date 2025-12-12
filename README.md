@@ -1,4 +1,4 @@
-# Malla Universitaria 🎓
+# 🎓 Gestor de Correlatividades Universitarias (Android)
 
 Aplicación móvil desarrollada en Python y Kivy para gestionar el estado de las materias (cursando, regular, aprobada) y visualizar correlatividades en tiempo real.
 
